@@ -1,5 +1,8 @@
 #criado nova função em dv
 
+import test
+
+
 def gether_data():
     n1 = int(input("Primeiro valor"))
     n2 = int(input("Segundo valor"))
